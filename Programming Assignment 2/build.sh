@@ -1,0 +1,1 @@
+gcc pa2.c -o disasm
